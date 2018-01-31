@@ -7,3 +7,9 @@ Task 2.2L2
 2/50 chance get third 5 card
 
 overall probability of obtaining 3 cards 5 in a row = (4*3*2)/(52*51*50)
+
+Task 2.1L1
+
+67 66 67
+66 68 66
+67 66 67
